@@ -1,0 +1,1 @@
+The project demonstrates my ability to build interactive, responsive, and user-friendly web applications using modern frontend technologies. The projects highlight skills in HTML, CSS, JavaScript, and frameworks like ReactJS
